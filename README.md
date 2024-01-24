@@ -1,3 +1,3 @@
 # AfternoonRepo
 First repo.
-Auther Gaurav
+Author Gaurav
